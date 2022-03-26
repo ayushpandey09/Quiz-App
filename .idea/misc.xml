@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/btn_primary.xml" value="0.2125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/edit_text_bg.xml" value="0.2125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/ic__213592_task_doodle_write_letter_education_study_school.xml" value="0.1078125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/ic_baseline_library_books_24.xml" value="0.2125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.2125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/ic_date_picker.xml" value="0.2125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/ic_icon02.xml" value="0.1078125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/ic_icon03.xml" value="0.1078125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/ic_icon05.xml" value="0.1078125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/ic_profile_24.xml" value="0.2125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/ic_trophy_icon.xml" value="0.2125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/ic_wave.xml" value="0.2125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/option_item_bg.xml" value="0.2125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/option_item_selected_bg.xml" value="0.2125" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/drawable/profile_bg.xml" value="0.17" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_question.xml" value="0.22" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_result.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_start.xml" value="0.25" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/layout/drawer_header.xml" value="0.17" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/layout/login_activity.xml" value="0.1" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/layout/option_item.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/layout/quiz_item.xml" value="0.17" />
+        <entry key="..\:/Users/win8.1/AndroidStudioProjects/QuizApp/app/src/main/res/menu/menu.xml" value="0.19583333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="welcome_to_quizzy">WELCOME TO QUIZZY</string>
+    <string name="please_login_to_continue_using_app">Please login to continue using app</string>
+    <string name="login_now">Login Now</string>
+    <string name="password">Password(Min. 7 character)</string>
+    <string name="login">LOGIN</string>
+    <string name="don_t_have_an_account_sign_in">Don\'t have an account? Sign Up</string>
+    <string name="email">Email</string>
+    <string name="wave">Wave</string>
+    <string name="stay_connected">Stay Connected</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_your_email_and_password_n_to_creat_new_account">Enter your email and password\n to create new account</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="signed">Signed</string>
+    <string name="get_started">Get Started</string>
+    <string name="app_Name">Quizzy</string>
+    <string name="question_description">Question description</string>
+    <string name="previous">Previous</string>
+    <string name="date_picker">Date picker</string>
+    <string name="score">SCORE</string>
+</resources>

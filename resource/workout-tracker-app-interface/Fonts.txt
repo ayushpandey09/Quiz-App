@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: JungleFever
+Author: Nick's Fonts
+Url: http://www.fontsquirrel.com/fonts/junglefever
+
+Font: Barlow
+Author: Tribby
+Url: https://www.fontsquirrel.com/fonts/barlow
